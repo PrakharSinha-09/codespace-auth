@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth",
+  "version": "1.0.0",
+  "description": "Building Authentication System entirely in Codespaces for the learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakharSinha-09/codespace-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakharSinha-09/codespace-auth/issues"
+  },
+  "homepage": "https://github.com/PrakharSinha-09/codespace-auth#readme"
+}
